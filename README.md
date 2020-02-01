@@ -1,5 +1,5 @@
-#How to add yourself to RTPSUGMembers
-###Prerequisites: VSCode, Git
+# How to add yourself to RTPSUGMembers
+### Prerequisites: VSCode, Git
 1. We will start by forking the RTPSUGMembers repository. From the RTPSUGMembers [repo](https://github.com/RTPSUGMembers/rtpsugmembers.github.io) Click the Fork button in the top right corner.
 ![Fork Click](https://github.com/RTPSUGMembers/rtpsugmembers.github.io/blob/master/assets/images/readme/Capture1.PNG)
 2. After the page refreshes you should notice that instead of saying:
