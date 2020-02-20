@@ -1,6 +1,6 @@
 ---
 name : Greg Onstot
-img : grego.jpg
+img : sample2.jpg
 twitter : @dohminion
 website : https://JohnSmith.com
 linkedin : greg-onstot-b8334491
