@@ -1,6 +1,6 @@
 ---
 name : Mike Kanakos
-img : dmx.jpg
+img : mkanakos.jpg
 twitter : MikeKanakos
 website : https://www.networkadm.in
 linkedin : MikeKanakos
