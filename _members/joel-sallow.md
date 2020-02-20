@@ -1,6 +1,6 @@
 ---
 name : Joel Sallow
-img : joel-sallow.jpg
+img : joel-sallow.png
 twitter : vexx32
 website : https://vexx32.github.io
 linkedin : joel-francis-356539128
